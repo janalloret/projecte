@@ -1,3 +1,6 @@
+// els gnds de l'esp32 amb i2c poden estar tant a la protoboard com connectats entre ells
+// vcc ha d'estar connectat a 3.3v i scl i sda no cal cap cable mes, llavors nomes els servos a 5v on el tornavís
+// nomes cal afegir la llibreria del infinite pca.... i ja esta
 
 /*
  * @file SingleBus.ino
