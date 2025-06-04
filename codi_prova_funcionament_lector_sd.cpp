@@ -1,5 +1,6 @@
 // no necessita cap llibreria
 // alimentat a 5v, amb pins que posa abaix
+// targeta formatejada amb 32fat
 #include <SPI.h>
 #include <SD.h>
 // Prueba con estos pines alternativos:
