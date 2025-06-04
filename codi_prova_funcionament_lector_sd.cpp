@@ -1,3 +1,4 @@
+// no necessita cap llibreria
 #include <SPI.h>
 #include <SD.h>
 // Prueba con estos pines alternativos:
