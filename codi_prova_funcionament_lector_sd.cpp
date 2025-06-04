@@ -1,4 +1,5 @@
 // no necessita cap llibreria
+// alimentat a 5v, amb pins que posa abaix
 #include <SPI.h>
 #include <SD.h>
 // Prueba con estos pines alternativos:
